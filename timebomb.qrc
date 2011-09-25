@@ -1,0 +1,12 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+   <file>gfx/off.svg</file>
+   <file>gfx/on.svg</file>
+   <file>gfx/start.svg</file>
+   <file>gfx/stop.svg</file>
+   <file>gfx/off.png</file>
+   <file>gfx/on.png</file>
+   <file>gfx/start.png</file>
+   <file>gfx/stop.png</file>
+</qresource>
+</RCC>
